@@ -1,4 +1,4 @@
-# Secteurs d'activité des entreprises
+# répartition des entreprises par secteur d'activité
 
 ## Description du projet
 
