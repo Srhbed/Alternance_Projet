@@ -7,7 +7,7 @@ Dans ce projet, nous allons collecter des données d'entreprises à partir du si
 
 ## Objectifs du projet
 
-1-Collecter les données à partir de data.gouv.fr pour la région choisie.
+1-Collecter les données à partir de data.gouv.fr pour le nord pas de calais.
 
 2-Nettoyer les données pour nous assurer qu'elles sont prêtes à être utilisées dans notre analyse.
 
