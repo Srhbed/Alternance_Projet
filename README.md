@@ -1,31 +1,32 @@
-# Alternance_Projet
+#Secteur_activite_des-entreprises
+### Découverte de Power BI avec les données de Data.gov sur les entreprises dans les Hauts-de-France et leurs secteurs d'activité.
+##Description du projet
 
-Ce projet utilise Power BI pour analyser les données des entreprises disponibles sur data.gouv.fr. L'objectif est d'extraire les données des entreprises dans une région donnée et de les visualiser sous forme de graphiques et de tableaux.
+Dans ce projet, nous allons utiliser Power BI, un outil de Business Intelligence de Microsoft, pour explorer les données de Data.gov sur les entreprises dans les Hauts-de-France et leurs secteurs d'activité. Nous allons apprendre à importer les données dans Power BI, à nettoyer les données si nécessaire, à créer des visualisations pour explorer les données et à utiliser les fonctionnalités de Power BI pour filtrer et slicer les données.
 Prérequis
 
-Pour utiliser ce projet, vous aurez besoin des éléments suivants :
+    Un compte Microsoft pour accéder à Power BI
+    Les données sur les entreprises dans les Hauts-de-France et leurs secteurs d'activité depuis Data.gov
 
-    Power BI Desktop (disponible gratuitement sur le site web de Microsoft)
-    Un accès à Internet pour télécharger le jeu de données des entreprises sur data.gouv.fr
+Objectifs d'apprentissage
 
-Installation
+    Comprendre les fonctionnalités de Power BI et savoir comment les utiliser pour explorer les données.
+    Savoir importer les données dans Power BI et les nettoyer si nécessaire.
+    Savoir créer des visualisations pour explorer les données et les afficher de manière convaincante.
+    Savoir utiliser les filtres et les slicers pour affiner les données en fonction de différents critères.
 
-    Clonez le projet sur votre ordinateur ou téléchargez-le sous forme de fichier ZIP.
-    Ouvrez Power BI Desktop et cliquez sur "Ouvrir" dans le menu "Fichier".
-    Sélectionnez le fichier PBIX du projet pour l'ouvrir dans Power BI Desktop.
+Comment utiliser ce repository
 
-Utilisation
+    Clonez le repository sur votre machine.
+    Importez les données sur les entreprises dans les Hauts-de-France et leurs secteurs d'activité depuis Data.gov dans Power BI.
+    Nettoyez les données si nécessaire.
+    Créez des visualisations pour explorer les données.
+    Utilisez les filtres et les slicers pour affiner les données en fonction de différents critères.
+    Analysez les résultats et tirez des conclusions.
 
-    Ouvrez le fichier PBIX du projet dans Power BI Desktop.
-    Cliquez sur "Rafraîchir" dans le menu "Accueil" pour mettre à jour les données à partir du fichier CSV téléchargé depuis data.gouv.fr.
-    Utilisez les visualisations et les filtres pour explorer les données des entreprises dans la région souhaitée.
-    Créez des mesures et des KPI pour calculer des indicateurs clés de performance.
-    Créez un tableau de bord pour présenter les résultats de l'analyse.
-    Enregistrez le fichier PBIX modifié sur votre ordinateur.
+Ressources supplémentaires
 
-Contribuer
+    Documentation de Power BI
+    Data.gov - Entreprises dans les Hauts-de-France et leurs secteurs d'activité
 
-Ce projet est destiné à être utilisé à titre d'exemple pour l'analyse des données des entreprises dans une région avec Power BI. Vous êtes libre de l'utiliser, de le modifier et de le distribuer selon vos besoins.
-Licence
-
-Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus d'informations.
+Nous vous souhaitons un bon projet d'apprentissage de Power BI avec les données de Data.gov sur les entreprises dans les Hauts-de-France et leurs secteurs d'activité !
