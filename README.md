@@ -8,10 +8,15 @@ Dans ce projet, nous allons collecter des données d'entreprises à partir du si
 ## Objectifs du projet
 
 1-Collecter les données à partir de data.gouv.fr pour la région choisie.
+
 2-Nettoyer les données pour nous assurer qu'elles sont prêtes à être utilisées dans notre analyse.
+
 3-Préparer les données pour l'analyse en les transformant en un format approprié pour Power BI.
+
 4-Utiliser Power BI pour explorer les tendances et les relations entre les différentes caractéristiques.
+
 5-Créer des visualisations pour présenter les résultats de notre analyse.
+
 6-Interpréter les résultats de notre analyse et tirer des conclusions sur les données des entreprises dans la région choisie.
 
 
