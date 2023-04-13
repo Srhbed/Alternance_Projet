@@ -1,32 +1,20 @@
-#Secteur_activite_des-entreprises
-### Découverte de Power BI avec les données de Data.gov sur les entreprises dans les Hauts-de-France et leurs secteurs d'activité.
-##Description du projet
+# Secteur_activite_des-entreprises
 
-Dans ce projet, nous allons utiliser Power BI, un outil de Business Intelligence de Microsoft, pour explorer les données de Data.gov sur les entreprises dans les Hauts-de-France et leurs secteurs d'activité. Nous allons apprendre à importer les données dans Power BI, à nettoyer les données si nécessaire, à créer des visualisations pour explorer les données et à utiliser les fonctionnalités de Power BI pour filtrer et slicer les données.
-Prérequis
+## Description du projet
 
-    Un compte Microsoft pour accéder à Power BI
-    Les données sur les entreprises dans les Hauts-de-France et leurs secteurs d'activité depuis Data.gov
+Dans ce projet, nous allons collecter des données d'entreprises à partir du site data.gouv.fr pour la région Nord Pas de Calais. Nous utiliserons Power BI pour effectuer une étude sur les secteurs d'activité dans cette région. Pour ce faire, nous allons importer les données dans Power BI, les nettoyer et les préparer pour l'analyse. Nous allons ensuite créer des visualisations pour explorer les données et étudier les tendances et les relations entre les différentes caractéristiques. Enfin, nous interpréterons les résultats de notre analyse pour en tirer des conclusions sur les secteurs d'activité dans la région Nord Pas de Calais.
 
-Objectifs d'apprentissage
+
+## Objectifs d'apprentissage
 
     Comprendre les fonctionnalités de Power BI et savoir comment les utiliser pour explorer les données.
     Savoir importer les données dans Power BI et les nettoyer si nécessaire.
     Savoir créer des visualisations pour explorer les données et les afficher de manière convaincante.
     Savoir utiliser les filtres et les slicers pour affiner les données en fonction de différents critères.
 
-Comment utiliser ce repository
 
-    Clonez le repository sur votre machine.
-    Importez les données sur les entreprises dans les Hauts-de-France et leurs secteurs d'activité depuis Data.gov dans Power BI.
-    Nettoyez les données si nécessaire.
-    Créez des visualisations pour explorer les données.
-    Utilisez les filtres et les slicers pour affiner les données en fonction de différents critères.
-    Analysez les résultats et tirez des conclusions.
-
-Ressources supplémentaires
 
     Documentation de Power BI
     Data.gov - Entreprises dans les Hauts-de-France et leurs secteurs d'activité
 
-Nous vous souhaitons un bon projet d'apprentissage de Power BI avec les données de Data.gov sur les entreprises dans les Hauts-de-France et leurs secteurs d'activité !
+
